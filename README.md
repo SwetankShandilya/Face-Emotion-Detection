@@ -1,4 +1,13 @@
-# Face-Emotion-Detection
-This repository contains code for building a Convolutional Neural Network (CNN) model for face emotion detection using Keras and TensorFlow. The model is trained to classify facial expressions into different emotion categories such as happy, sad, angry, etc.The CNN model architecture consists of multiple convolutional layers followed by max-pooling layers for feature extraction. The output of the convolutional layers is flattened and passed through fully connected layers with dropout regularization to classify the input image into one of the emotion categories.
+Overview:-
 
-Dependencies: Python, TensorFlow, Keras, OpenCV (for image preprocessing), NumPy, Matplotlib (for visualization)
+The primary objective of this project is to develop a real-time facial emotion recognition system. The system can identify and classify emotions from facial expressions using a CNN model.
+
+Features:-
+
+Convolutional Neural Network (CNN): Implemented a CNN model for accurate emotion recognition.
+
+Python and Deep Learning Libraries: Utilized Python along with TensorFlow and Keras for building and training the model.
+
+Computer Vision Techniques: Applied techniques for image processing and feature extraction.
+
+Preprocessing: Implemented data augmentation and normalization to enhance the training process.
